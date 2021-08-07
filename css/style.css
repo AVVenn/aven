@@ -6,7 +6,7 @@ body {
     font-family: serif;
     font-size: 18px;
     background-color: #787129;
-    background-image: url(/image/background.jpeg);
+    background-image: url(../image/background.jpeg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
